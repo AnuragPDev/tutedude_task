@@ -1,3 +1,5 @@
-first_name = input("Enter your first name: ")
-last_name = input("Enter your second name: ")
-print("Hello", first_name + last_name,"welcome to my github repo")
+sum=0
+for i in range(0,51):
+    sum=sum+i
+
+print("The sum of numbers from 1 to 50 is: ",sum)
