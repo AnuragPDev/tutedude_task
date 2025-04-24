@@ -1,1 +1,4 @@
+**Task 1** The idea is a number is even when it is completely divisible by 2 , since we have two condition to check we use if else , if condition will check if the number is divisible by 2 uf yes then conditon is true and it will print the statement written under the if statemnet
+if not true it prints the statement written under the else 
 
+**Task2**the ideas for this task is we want to add number from 1 to 50 for that we will create a sequence from 1 to 50 using range function and initialise the sum varibale equal to zero , to add all the number from 1 to 50 we have to iterate the range for that we use for loop , in each iteration value of i will hold some value and it will add to the sum variable and each time the sum variable will be updated and hence at last we will get sum of all the number from 1 to 50
